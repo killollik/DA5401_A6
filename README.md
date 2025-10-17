@@ -90,7 +90,7 @@ This project demonstrates that a thoughtful approach to handling missing data is
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/your-username/DA5401_A6.git
     cd your-repo-name
     ```
 
